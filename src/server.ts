@@ -1,7 +1,10 @@
 import fastify from "fastify";
+import cors from "fastify-cors"
 import { getData } from "./data/get-data";
 
 const server = fastify()
+
+server.register(cors, { origin: '*' })
 
 server.get('/hits', async (req, res) => {
   const data = await getData('hits')
