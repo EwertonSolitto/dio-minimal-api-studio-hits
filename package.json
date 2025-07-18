@@ -6,13 +6,13 @@
   "scripts": {
     "dist": "tsup src",
     "start": "tsx src/server.ts",
-    "start:watch": "tsx watch  src/server.ts",
+    "start:watch": "tsx watch src/server.ts",
     "start:dist": "npm run dist && node dist/src/index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "devDependencies": {
     "@types/node": "^24.0.14",
     "tsup": "^8.5.0",

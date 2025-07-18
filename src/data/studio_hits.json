@@ -1,0 +1,402 @@
+[
+  {
+    "studio": "SEGA",
+    "hit": "Sonic Frontiers"
+  },
+  {
+    "studio": "Toby Fox",
+    "hit": "Undertale"
+  },
+  {
+    "studio": "EA",
+    "hit": "Battlefield 2042"
+  },
+  {
+    "studio": "EA",
+    "hit": "FIFA 23"
+  },
+  {
+    "studio": "Valve",
+    "hit": "Portal 2"
+  },
+  {
+    "studio": "CD Projekt Red",
+    "hit": "The Witcher 3"
+  },
+  {
+    "studio": "Nintendo",
+    "hit": "The Legend of Zelda: Breath of the Wild"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Watch Dogs 2"
+  },
+  {
+    "studio": "SEGA",
+    "hit": "Yakuza: Like a Dragon"
+  },
+  {
+    "studio": "FromSoftware",
+    "hit": "Elden Ring"
+  },
+  {
+    "studio": "Square Enix",
+    "hit": "Final Fantasy VII Remake"
+  },
+  {
+    "studio": "EA",
+    "hit": "FIFA 23"
+  },
+  {
+    "studio": "Larian Studios",
+    "hit": "Baldur's Gate 3"
+  },
+  {
+    "studio": "Bandai Namco",
+    "hit": "Elden Ring"
+  },
+  {
+    "studio": "Square Enix",
+    "hit": "Kingdom Hearts III"
+  },
+  {
+    "studio": "Supergiant Games",
+    "hit": "Hades"
+  },
+  {
+    "studio": "Rockstar Games",
+    "hit": "GTA V"
+  },
+  {
+    "studio": "Toby Fox",
+    "hit": "Undertale"
+  },
+  {
+    "studio": "Insomniac Games",
+    "hit": "Ratchet & Clank: Rift Apart"
+  },
+  {
+    "studio": "EA",
+    "hit": "Battlefield 2042"
+  },
+  {
+    "studio": "Nintendo",
+    "hit": "The Legend of Zelda: Breath of the Wild"
+  },
+  {
+    "studio": "Square Enix",
+    "hit": "Final Fantasy VII Remake"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Far Cry 5"
+  },
+  {
+    "studio": "ConcernedApe",
+    "hit": "Stardew Valley"
+  },
+  {
+    "studio": "EA",
+    "hit": "FIFA 23"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Watch Dogs 2"
+  },
+  {
+    "studio": "FromSoftware",
+    "hit": "Dark Souls"
+  },
+  {
+    "studio": "ConcernedApe",
+    "hit": "Stardew Valley"
+  },
+  {
+    "studio": "Valve",
+    "hit": "Counter-Strike: Global Offensive"
+  },
+  {
+    "studio": "Bethesda",
+    "hit": "Fallout 4"
+  },
+  {
+    "studio": "Team Cherry",
+    "hit": "Hollow Knight"
+  },
+  {
+    "studio": "Blizzard",
+    "hit": "Diablo IV"
+  },
+  {
+    "studio": "FromSoftware",
+    "hit": "Sekiro"
+  },
+  {
+    "studio": "Playdead",
+    "hit": "Inside"
+  },
+  {
+    "studio": "Mojang",
+    "hit": "Minecraft"
+  },
+  {
+    "studio": "Valve",
+    "hit": "Half-Life 2"
+  },
+  {
+    "studio": "Blizzard",
+    "hit": "World of Warcraft"
+  },
+  {
+    "studio": "Bandai Namco",
+    "hit": "Tekken 7"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Far Cry 5"
+  },
+  {
+    "studio": "Nintendo",
+    "hit": "Animal Crossing: New Horizons"
+  },
+  {
+    "studio": "Valve",
+    "hit": "Portal 2"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Watch Dogs 2"
+  },
+  {
+    "studio": "Supergiant Games",
+    "hit": "Hades"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Far Cry 5"
+  },
+  {
+    "studio": "Square Enix",
+    "hit": "Final Fantasy VII Remake"
+  },
+  {
+    "studio": "CD Projekt Red",
+    "hit": "Cyberpunk 2077"
+  },
+  {
+    "studio": "Valve",
+    "hit": "Half-Life 2"
+  },
+  {
+    "studio": "EA",
+    "hit": "The Sims 4"
+  },
+  {
+    "studio": "Valve",
+    "hit": "Counter-Strike: Global Offensive"
+  },
+  {
+    "studio": "FromSoftware",
+    "hit": "Elden Ring"
+  },
+  {
+    "studio": "Blizzard",
+    "hit": "Overwatch"
+  },
+  {
+    "studio": "Rockstar Games",
+    "hit": "Red Dead Redemption 2"
+  },
+  {
+    "studio": "Playdead",
+    "hit": "Inside"
+  },
+  {
+    "studio": "Valve",
+    "hit": "Half-Life 2"
+  },
+  {
+    "studio": "Valve",
+    "hit": "Half-Life 2"
+  },
+  {
+    "studio": "Supergiant Games",
+    "hit": "Hades"
+  },
+  {
+    "studio": "Nintendo",
+    "hit": "Super Mario Odyssey"
+  },
+  {
+    "studio": "Capcom",
+    "hit": "Street Fighter V"
+  },
+  {
+    "studio": "Square Enix",
+    "hit": "Kingdom Hearts III"
+  },
+  {
+    "studio": "Rockstar Games",
+    "hit": "Red Dead Redemption 2"
+  },
+  {
+    "studio": "Supergiant Games",
+    "hit": "Bastion"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Assassin's Creed Valhalla"
+  },
+  {
+    "studio": "Capcom",
+    "hit": "Street Fighter V"
+  },
+  {
+    "studio": "Nintendo",
+    "hit": "The Legend of Zelda: Breath of the Wild"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Assassin's Creed Valhalla"
+  },
+  {
+    "studio": "Bandai Namco",
+    "hit": "Tekken 7"
+  },
+  {
+    "studio": "Team Cherry",
+    "hit": "Hollow Knight"
+  },
+  {
+    "studio": "Valve",
+    "hit": "Half-Life 2"
+  },
+  {
+    "studio": "Rockstar Games",
+    "hit": "GTA V"
+  },
+  {
+    "studio": "Activision",
+    "hit": "Call of Duty: Modern Warfare"
+  },
+  {
+    "studio": "Bethesda",
+    "hit": "Fallout 4"
+  },
+  {
+    "studio": "Playdead",
+    "hit": "Inside"
+  },
+  {
+    "studio": "Team Cherry",
+    "hit": "Hollow Knight"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Assassin's Creed Valhalla"
+  },
+  {
+    "studio": "Nintendo",
+    "hit": "The Legend of Zelda: Breath of the Wild"
+  },
+  {
+    "studio": "Nintendo",
+    "hit": "The Legend of Zelda: Breath of the Wild"
+  },
+  {
+    "studio": "Remedy",
+    "hit": "Alan Wake"
+  },
+  {
+    "studio": "Toby Fox",
+    "hit": "Undertale"
+  },
+  {
+    "studio": "SEGA",
+    "hit": "Yakuza: Like a Dragon"
+  },
+  {
+    "studio": "Remedy",
+    "hit": "Alan Wake"
+  },
+  {
+    "studio": "Mojang",
+    "hit": "Minecraft"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Watch Dogs 2"
+  },
+  {
+    "studio": "Bethesda",
+    "hit": "The Elder Scrolls V: Skyrim"
+  },
+  {
+    "studio": "Square Enix",
+    "hit": "Kingdom Hearts III"
+  },
+  {
+    "studio": "Activision",
+    "hit": "Call of Duty: Modern Warfare"
+  },
+  {
+    "studio": "SEGA",
+    "hit": "Sonic Frontiers"
+  },
+  {
+    "studio": "EA",
+    "hit": "Battlefield 2042"
+  },
+  {
+    "studio": "Remedy",
+    "hit": "Control"
+  },
+  {
+    "studio": "Valve",
+    "hit": "Portal 2"
+  },
+  {
+    "studio": "Playdead",
+    "hit": "Inside"
+  },
+  {
+    "studio": "Capcom",
+    "hit": "Resident Evil 4 Remake"
+  },
+  {
+    "studio": "FromSoftware",
+    "hit": "Dark Souls"
+  },
+  {
+    "studio": "SEGA",
+    "hit": "Yakuza: Like a Dragon"
+  },
+  {
+    "studio": "Bethesda",
+    "hit": "Fallout 4"
+  },
+  {
+    "studio": "Nintendo",
+    "hit": "Super Mario Odyssey"
+  },
+  {
+    "studio": "Team Cherry",
+    "hit": "Hollow Knight"
+  },
+  {
+    "studio": "Bandai Namco",
+    "hit": "Tekken 7"
+  },
+  {
+    "studio": "FromSoftware",
+    "hit": "Dark Souls"
+  },
+  {
+    "studio": "Ubisoft",
+    "hit": "Assassin's Creed Valhalla"
+  },
+  {
+    "studio": "FromSoftware",
+    "hit": "Sekiro"
+  }
+]

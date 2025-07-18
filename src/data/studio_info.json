@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "studio": "Activision",
+    "country": "United States"
+  },
+  {
+    "id": 2,
+    "studio": "Bandai Namco",
+    "country": "Japan"
+  },
+  {
+    "id": 3,
+    "studio": "Bethesda",
+    "country": "United States"
+  },
+  {
+    "id": 4,
+    "studio": "Blizzard",
+    "country": "United States"
+  },
+  {
+    "id": 5,
+    "studio": "CD Projekt Red",
+    "country": "Poland"
+  },
+  {
+    "id": 6,
+    "studio": "Capcom",
+    "country": "Japan"
+  },
+  {
+    "id": 7,
+    "studio": "ConcernedApe",
+    "country": "United States"
+  },
+  {
+    "id": 8,
+    "studio": "EA",
+    "country": "United States"
+  },
+  {
+    "id": 9,
+    "studio": "FromSoftware",
+    "country": "Japan"
+  },
+  {
+    "id": 10,
+    "studio": "Insomniac Games",
+    "country": "United States"
+  },
+  {
+    "id": 11,
+    "studio": "Larian Studios",
+    "country": "Belgium"
+  },
+  {
+    "id": 12,
+    "studio": "Mojang",
+    "country": "Sweden"
+  },
+  {
+    "id": 13,
+    "studio": "Nintendo",
+    "country": "Japan"
+  },
+  {
+    "id": 14,
+    "studio": "Playdead",
+    "country": "Denmark"
+  },
+  {
+    "id": 15,
+    "studio": "Remedy",
+    "country": "Finland"
+  },
+  {
+    "id": 16,
+    "studio": "Rockstar Games",
+    "country": "United Kingdom"
+  },
+  {
+    "id": 17,
+    "studio": "SEGA",
+    "country": "Japan"
+  },
+  {
+    "id": 18,
+    "studio": "Square Enix",
+    "country": "Japan"
+  },
+  {
+    "id": 19,
+    "studio": "Supergiant Games",
+    "country": "United States"
+  },
+  {
+    "id": 20,
+    "studio": "Team Cherry",
+    "country": "Australia"
+  },
+  {
+    "id": 21,
+    "studio": "Toby Fox",
+    "country": "United States"
+  },
+  {
+    "id": 22,
+    "studio": "Ubisoft",
+    "country": "France"
+  },
+  {
+    "id": 23,
+    "studio": "Valve",
+    "country": "United States"
+  }
+]
